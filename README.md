@@ -1,9 +1,7 @@
 # <h1 align="center">Hi, I'm Mohamed 👋</h1>
 <p align="center">
-    <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/mostfa.khedr"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/moustafa-khedr-a5317013a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p> 
 
 ## I'm a Civil Engineering and Python Developer  
@@ -32,10 +30,6 @@
   </p>
 
 ---
-#### You can find me on:
-[Linkedin](https://www.linkedin.com/in/soroush-chehresa) - [Stackoverflow](https://stackoverflow.com/users/9516173/soroush-chehresa) - [Medium](https://medium.com/@soroushchehresa) - [Dribbble](https://dribbble.com/soroushchehresa) - [Twitter](https://twitter.com/soroushchehresa) - [Gmail](mailto:s1996ch@gmail.com)
-
-
 
 **Github Stats:**
 
