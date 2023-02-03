@@ -39,5 +39,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=moustafa-khedr&show_icons=true" />
 <br>
 <br>
-⭐️ From [moustafa-khedr](https://github.com/moustafa-khedr) 
+<p align="center">
+    Show ❤️ by starring repositories you find good! 
+    <br />
+    ⭐️ From [moustafa-khedr](https://github.com/moustafa-khedr) 
+    <br />
+    Also, star and fork this repository if you wish to give this new feature a try!
+  </p>
+</p> 
 </div>
