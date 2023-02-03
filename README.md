@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-<img src="[https://github-readme-stats.vercel.app/api?username=moustafa-khedr&show_icons=true]" />
+<img src="https://github-readme-stats.vercel.app/api?username=moustafa-khedr&show_icons=true" />
 <br>
 <br>
 ⭐️ From [moustafa-khedr](https://github.com/moustafa-khedr) 
