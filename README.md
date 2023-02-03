@@ -37,6 +37,7 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=moustafa-khedr&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafa-khedr&theme=react&line_height=40&hide=css" />
 <br>
 <br>
 <p align="center">
