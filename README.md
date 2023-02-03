@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Mohamed 👋</h1>
+# <h1 align="center">Hi, I'm Moustafa 👋</h1>
 <p align="center">
     <a href="https://www.facebook.com/mostfa.khedr"><img src="https://img.shields.io/badge/facebook-%231FA1F1?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/moustafa-khedr-a5317013a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -6,10 +6,10 @@
 
 ## I'm a Civil Engineering and Python Developer  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like Django, Flask etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to play chess .
 
 ---
 <div align="center">
@@ -35,7 +35,6 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=moustafa-khedr&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafa-khedr&theme=react&line_height=40&hide=css" />
 <br>
 <br>
 <p align="center">
