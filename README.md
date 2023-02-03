@@ -32,10 +32,9 @@
 [Linkedin](https://www.linkedin.com/in/soroush-chehresa) - [Stackoverflow](https://stackoverflow.com/users/9516173/soroush-chehresa) - [Medium](https://medium.com/@soroushchehresa) - [Dribbble](https://dribbble.com/soroushchehresa) - [Twitter](https://twitter.com/soroushchehresa) - [Gmail](mailto:s1996ch@gmail.com)
 
 
+
 **Github Stats:**
 
-<br>
-<br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=moustafa-khedr&show_icons=true" />
 <br>
