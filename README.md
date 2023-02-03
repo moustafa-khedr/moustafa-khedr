@@ -11,7 +11,6 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play chess .
 
----
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
